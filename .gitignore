@@ -1,0 +1,9 @@
+### Python ###
+__pycache__/
+*.py[cod]
+
+### Django ###
+*.log
+*.pot
+*.pyc
+streamline/settings_secret.py
